@@ -12,9 +12,9 @@
         <!-- START Background Caption-->
         <div class="bg-caption pull-bottom sm-pull-bottom text-white p-l-20 m-b-20">
           <h2 class="semi-bold text-white">
-					#Start Coding - Medquil Admin Dashboard</h2>
+					#Start Coding - Shakshii Admin Dashboard</h2>
           <p class="small">
-            All Rights Reserved. Medquil Corporation</p>
+            All Rights Reserved. Shakshii Corporation</p>
         </div>
         <!-- END Background Caption-->
       </div>
