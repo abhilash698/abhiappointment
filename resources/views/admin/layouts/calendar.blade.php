@@ -265,14 +265,14 @@
             </span>
               </button>
               <ul class="dropdown-menu profile-dropdown" role="menu">
-                <li><a href="#"><i class="pg-settings_small"></i> Settings</a>
+                <!-- <li><a href="#"><i class="pg-settings_small"></i> Settings</a>
                 </li>
                 <li><a href="#"><i class="pg-outdent"></i> Feedback</a>
                 </li>
                 <li><a href="#"><i class="pg-signals"></i> Help</a>
-                </li>
+                </li> -->
                 <li class="bg-master-lighter">
-                  <a href="#" class="clearfix">
+                  <a href="/logout" class="clearfix">
                     <span class="pull-left">Logout</span>
                     <span class="pull-right"><i class="pg-power"></i></span>
                   </a>
